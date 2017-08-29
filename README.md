@@ -15,3 +15,6 @@ However, in cases where it is important to track documents on a milestone-by-mil
 
 Depending on the nature of the documents, publishers should consider duplicating information in the parent sections documents block also. 
 
+## Issues
+
+Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
