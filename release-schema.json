@@ -3,14 +3,7 @@
     "Milestone": {
       "properties": {
         "documents": {
-          "title": "Documents",
-          "description": "A list of documents specifically associated with this milestone.",
-          "type": "array",
-          "deprecated": null,
-          "items": {
-            "$ref": "#/definitions/Document"
-          },
-          "uniqueItems": true
+          "deprecated": null
         }
       }
     }
