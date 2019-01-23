@@ -6,7 +6,7 @@
     "en": "Documents at the milestone level were deprecated in OCDS 1.1. This extension re-introduces the ability to attach documents to each individual milestone."
   },
   "documentationUrl": {
-    "en": "http://standard.open-contracting.org/1.1/en/extensions/milestone_documents/"
+    "en": "https://extensions.open-contracting.org/en/extensions/milestone_documents/"
   },
   "compatibility": [
     "1.1"
