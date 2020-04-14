@@ -14,9 +14,9 @@ However, in cases where it is important to track documents on a milestone-by-mil
 
 Depending on the nature of the documents, publishers should consider duplicating information in the parent sections documents block also.
 
-## Worked Example
+## Example
 
-During the implementation of a contract, the buyer set different milestones that the supplier must met. Each of these milestone could has an associated document that offers more details about the met milestone, for example a consultancy report
+During the implementation of a contract, the buyer sets milestones that the supplier needs to meet. Each of these milestones can have an associated document that offers more details about the met milestone: for example, a consultancy report:
 
 ```json
 {
