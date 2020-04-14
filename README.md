@@ -23,6 +23,7 @@ During the implementation of a contract, the buyer set different milestones that
   "contracts": [
     {
       "id": "CO-40002-18-166811",
+      "awardID": "354469-jorge-augusto-zarate-leiva-1",
       "implementation": {
         "milestones": [
           {
