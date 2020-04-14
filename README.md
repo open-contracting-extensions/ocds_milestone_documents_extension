@@ -22,6 +22,7 @@ During the implementation of a contract, the buyer set different milestones that
 {
   "contracts": [
     {
+      "id": "CO-40002-18-166811",
       "implementation": {
         "milestones": [
           {
