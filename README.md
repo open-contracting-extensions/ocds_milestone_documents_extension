@@ -6,13 +6,13 @@ This extension re-introduces the `documents` block to `milestones`, providing fi
 
 ## Guidance
 
-Publishers should consider that many consuming applications will only look at the `tender.documents`, `awards.documents`, `contracts.documents` and `contracts.implementation.documents` section to access and display relevant documentation to users.
+Publishers ought to consider that many consuming applications will only look at the `tender.documents`, `awards.documents`, `contracts.documents` and `contracts.implementation.documents` section to access and display relevant documentation to users.
 
 Document titles, document types, and descriptions can be used to indicate to human readers the particular nature of the documents and any milestones they relate to.
 
 However, in cases where it is important to track documents on a milestone-by-milestone basis this extension can be introduced.
 
-Depending on the nature of the documents, publishers should consider duplicating information in the parent sections documents block also.
+Depending on the nature of the documents, publishers ought to consider duplicating information in the parent section's documents block.
 
 ## Example
 
@@ -56,6 +56,10 @@ During the implementation of a contract, the buyer sets milestones that the supp
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
 
 ## Changelog
+
+### Unreleased
+
+* Review normative and non-normative words
 
 ### v1.1.4
 
